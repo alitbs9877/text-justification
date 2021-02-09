@@ -1,0 +1,3 @@
+/home/alitbs/textJustifications/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alitbs/textJustifications/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alitbs/textJustifications/cmake-build-debug/CMakeFiles/textJustifications.dir

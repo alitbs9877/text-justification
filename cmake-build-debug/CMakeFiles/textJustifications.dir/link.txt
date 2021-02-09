@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/textJustifications.dir/main.cpp.o  -o textJustifications 
